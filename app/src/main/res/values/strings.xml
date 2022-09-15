@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Security</string>
+    <string name="loading">---</string>
+    <string name="electric">⚡</string>
+    <string name="security">Security</string>
+    <string name="performance">Performance</string>
+    <string name="problems">Problems</string>
+    <string name="my_account">My account</string>
+    <string name="device_spec">Device Specifications</string>
+</resources>
